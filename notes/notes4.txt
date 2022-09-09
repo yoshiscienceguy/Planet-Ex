@@ -1,0 +1,6 @@
+Mission Objective #4 Notes
+Tuesday, August 30, 2022
+save save save for file #004
+2. What other features will look alright in the list of commands? 
+Wednesday, August 31, 2022
+Print commands are used as functions

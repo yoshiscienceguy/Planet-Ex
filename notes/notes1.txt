@@ -1,0 +1,28 @@
+Wednesday, August 31, 2022
+1) Oh god this is so much harder than i thought
+
+2) Localize the error. The error lies simply in
+the '/open_source.txt' command. 
+
+3) Remember that feedback of any kind is welcome
+the user is perfect for every word provided to 
+make the program better. 
+
+4) The goal is to strike awe and wonder. 
+
+5) You're close... Don't give up. ever...
+
+6) After this 6th command, you'll be done. You're finished with the commands. 
+
+7) see_inventory page 
+
+8) A See all commands page. 
+
+9) Since you're only navigating between txt and a label, you're okay. You can do this. 
+
+Thursday, September 01, 2022
+1) its a new day. Let's get the code to open using
+what you know between toggling between txt and 
+label. 
+
+
